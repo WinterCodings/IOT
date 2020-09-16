@@ -1,5 +1,5 @@
 import telepot
-token = '1380693471:AAG0Dvss-KWyeDxbUlLimwCAD4L9arNsENU'
+token = 'tokenid'
 TelegramBot = telepot.Bot(token)
 print (TelegramBot.getMe())
 def handle(msg):
